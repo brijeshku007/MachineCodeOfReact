@@ -53,11 +53,11 @@ function App() {
     {/* <ProtectedRoute></ProtectedRoute> */}
     {/* <Navbar></Navbar>
     <Main></Main> */}
-    {/* <Master></Master> */}
+    <Master></Master>
     {/* <MainCompo></MainCompo> */}
-    <Provider store={store}>
+    {/* <Provider store={store}>
       <PostsList></PostsList>
-    </Provider>
+    </Provider> */}
    
     </>
   )
